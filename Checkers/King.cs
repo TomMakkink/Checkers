@@ -4,27 +4,9 @@ using System.Text;
 
 namespace Checkers
 {
-    class King : IPiece
+    class King : Piece
     {
-        public Status Status => throw new NotImplementedException();
+        public King(Color c, int p) : base(c, p) { }
 
-        public Color Color => throw new NotImplementedException();
-
-        public int Position => throw new NotImplementedException();
-
-        public IEnumerable<int> CapturingMoves(IBoard board)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Move(int destination)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<int> NormalMoves(IBoard board)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

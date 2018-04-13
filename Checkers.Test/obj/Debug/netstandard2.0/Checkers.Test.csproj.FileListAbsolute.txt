@@ -1,0 +1,8 @@
+J:\Checkers\Checkers.Test\bin\Debug\netstandard2.0\Checkers.Test.deps.json
+J:\Checkers\Checkers.Test\bin\Debug\netstandard2.0\Checkers.Test.dll
+J:\Checkers\Checkers.Test\bin\Debug\netstandard2.0\Checkers.Test.pdb
+J:\Checkers\Checkers.Test\obj\Debug\netstandard2.0\Checkers.Test.csproj.CoreCompileInputs.cache
+J:\Checkers\Checkers.Test\obj\Debug\netstandard2.0\Checkers.Test.AssemblyInfoInputs.cache
+J:\Checkers\Checkers.Test\obj\Debug\netstandard2.0\Checkers.Test.AssemblyInfo.cs
+J:\Checkers\Checkers.Test\obj\Debug\netstandard2.0\Checkers.Test.dll
+J:\Checkers\Checkers.Test\obj\Debug\netstandard2.0\Checkers.Test.pdb
