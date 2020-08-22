@@ -1,2 +1,3 @@
-# OO_Tutorial-
-Object Orientated tutorial for Programming Styles Course. 
+# Checkers 
+
+Object Orientated implementation of the classic board game Checkers.  
